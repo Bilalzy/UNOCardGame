@@ -28,7 +28,7 @@ public abstract class Player
     public String getPlayerID() 
     {
         return playerID;
-    }
+    ]
 
     /**
      * Ensure that the playerID is unique
